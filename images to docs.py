@@ -90,7 +90,7 @@ class OCRApp:
         self.show_image()
 
 def download_tesseract_installer():
-    tesseract_url = "https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0.20210503.exe"
+    tesseract_url = "https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.3.20231005.exe"
     local_filename = "tesseract_installer.exe"
     print("Downloading Tesseract OCR installer...")
     try:
