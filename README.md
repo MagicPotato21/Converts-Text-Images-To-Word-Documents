@@ -6,4 +6,4 @@ Converts Text Images To Word Documents
 
 </p>
 
-Here is the link to the Basic .exe setup https://mega.nz/file/1aoERCZD#Cucvo_ZCPIVU5bNeQ3hG-60fHqNd2ELIYoh7kysZWMQ
+Here is the link to the Basic .exe setup https://mega.nz/file/9GwxFQwL#OxrKXoKDDs0PRxb4dI2D9N_OfERUEDdoDc0TxkU58jw
