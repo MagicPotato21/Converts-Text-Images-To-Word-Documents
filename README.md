@@ -2,7 +2,7 @@
 Converts Text Images To Word Documents
 
 <p float="left">
-    <img src="imgs/tool.JPG" width="400" />
+    <img src="imgs/tool1.JPG" width="400" />
 
 </p>
 
